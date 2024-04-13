@@ -26,4 +26,3 @@ for date, sales in all_transaction.items():
     plt.xlabel("Member number")
     plt.ylabel("Number of purchases made")
     plt.show()
-

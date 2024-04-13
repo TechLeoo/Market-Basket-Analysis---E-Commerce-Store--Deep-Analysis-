@@ -357,17 +357,3 @@ dailyitemsales2014to2015.to_csv(r"VizData\dailyitemsales2014to2015.csv", index =
 data_count_member_purchase.to_csv(r"VizData\totalmemberpurchases2014to2015.csv", index = True)
 memberpurchase2014count.to_csv(r"VizData\totalmemberpurchases2014.csv", index = True)
 memberpurchase2015count.to_csv(r"VizData\totalmemberpurchases2015.csv", index = True)
-
-
-
-
-
-
-
-
-
-
-
-
-
-

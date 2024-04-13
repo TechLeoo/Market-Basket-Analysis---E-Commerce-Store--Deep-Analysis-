@@ -29,11 +29,4 @@ lift2014 = association_rules(support2014, metric = "lift", min_threshold = 1)
 support2015 = apriori(EncodedDatasetAssociationRule2015, min_support = 0.005, use_colnames = True)
 confidence2015 = association_rules(support2015, metric = "confidence", min_threshold = 0.01)       
 lift2015 = association_rules(support2015, metric = "lift", min_threshold = 1.0)           
-        
-
-        
-        
-        
-        
-        
-        
+            
